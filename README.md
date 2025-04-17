@@ -1,7 +1,6 @@
 # Eyantra
 
-This repository contains multiple tasks and projects related to hardware and software development using Verilog and other technologies.
-
+Eyantra is a competiton Organised by IIT-B we participated in the ecomender theme
 ## Repository Structure
 
 - **`t1a_fs_pwm`**: Task related to Full Scale PWM (Pulse Width Modulation). This may include Verilog implementations and relevant test cases.
