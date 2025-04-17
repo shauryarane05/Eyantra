@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaler
+Z1 !s110 1729628308
+!i10b 1
+!s100 NzdEj4Z502O9iSz83z1:I0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkoSQN:N?hYC4ThZ0o]NJU1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1729625578
+8C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/frequency_scaler.v
+FC:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/frequency_scaler.v
+!i122 2
+L0 20 30
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1729628308.000000
+!s107 C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/frequency_scaler.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code|C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/frequency_scaler.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 6o4hVlBaABQ^FS?7aPUdi0
+R2
+I^RmS5mM:8iT`3;1l4NidG2
+R3
+R0
+w1729628284
+8C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/pwm_generator.v
+FC:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/pwm_generator.v
+!i122 1
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code|C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 BzDROZiez6483=A91SzkV2
+R2
+Ib6Wg`bZVd;VGm=d:9^[XM2
+R3
+R0
+Z9 w1729069311
+8C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+FC:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+!i122 0
+L0 20 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code|C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+R7
+R8
+vtb
+!s110 1729628309
+!i10b 1
+!s100 =jSl53o6MIUkOM41K5DW53
+R2
+IkF0d1kGgg7U3SIl2H;FB=3
+R3
+R0
+R9
+8C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test/tb.v
+FC:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test/tb.v
+!i122 3
+L0 4 97
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test|C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/sarve/Downloads/eb_3622_task1a/eb_3622_task1a/t1a_fs_pwm/.test
+R8
